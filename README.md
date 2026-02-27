@@ -23,7 +23,7 @@ No full templates were copied — components were extracted and customized.
 - Bootstrap 5 (CDN)
 - JavaScript (Theme Toggle)
 - Minimal Custom CSS
-
+Used Chatgpt for the color grading to the site
 ---
 
 ## 🌗 Dark / Light Theme
